@@ -1,0 +1,5 @@
+{
+    "mongo": {
+        "uri": "mongodb://host.docker.interal:27017/base_mongodb"
+    }
+}
